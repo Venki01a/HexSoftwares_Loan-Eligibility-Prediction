@@ -43,8 +43,7 @@ To ensure high accuracy and generalization, we trained and compared multiple mod
 1. 🔹 **Logistic Regression** – Simple, interpretable baseline  
 2. 🌲 **Random Forest Classifier** – Powerful ensemble method  
 3. 🌿 **Decision Tree Classifier** – For easy interpretability  
-4. 🧩 **Support Vector Machine (SVM)** – For complex boundary separation  
-5. ⚡ **XGBoost Classifier** – Advanced gradient boosting model with top accuracy  
+4. ⚡ **XGBoost Classifier** – Advanced gradient boosting model with top accuracy  
 
 ---
 
